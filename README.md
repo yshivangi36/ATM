@@ -14,24 +14,24 @@ This Java project simulates an ATM interface, allowing users to perform basic ba
 ## How to Run
 
 1. **Clone the Repository:**
-  
+   ```bash
    git clone https://github.com/yshivangi36/ATMInterface.git
-  
+   ```
 
 2. **Navigate to the Project Directory:**
-  
+   ```bash
    cd ATMInterface
- 
+   ```
 
 3. **Compile the Java Files:**
-  
+   ```bash
    javac Main.java
- 
+   ```
 
 4. **Run the Program:**
- 
+   ```bash
    java Main
-
+   ```
 
 ## Example Interaction
 
@@ -60,5 +60,3 @@ ATM Menu:
 4. Exit
 Choose an option: 4
 Thank you for using the ATM. Goodbye!
-
-
